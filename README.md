@@ -1,1 +1,1 @@
-[![rootup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootup)](https://github.com/rootup)
+![Stats](https://readme-stats-fast.vercel.app/api?username=rootup&show_icons=true)
